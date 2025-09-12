@@ -83,28 +83,30 @@ const harsh = {
 
 ---
 
+---
+
 ## 🎯 Currently Learning
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100"/>
 <h3>🧠 Machine Learning</h3>
 <p>Supervised Learning<br/>Feature Engineering<br/>Model Optimization</p>
 </td>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
 <h3>🔥 Deep Learning</h3>
 <p>Neural Networks<br/>Computer Vision<br/>Transfer Learning</p>
 </td>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/>
 <h3>🤖 Generative AI</h3>
 <p>Large Language Models<br/>Prompt Engineering<br/>AI Applications</p>
 </td>
 <td align="center" width="250">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100"/>
 <h3>⚡ System Design</h3>
 <p>Data Structures<br/>Algorithms<br/>Problem Solving</p>
 </td>
@@ -112,7 +114,6 @@ const harsh = {
 </table>
 </div>
 
----
 
 ## 📈 Contribution Activity
 
