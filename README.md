@@ -186,9 +186,6 @@ print("Building the future with AI! 🚀")
 
 <div align="center">
 
-![Profile Views](https://komarev.com/github-profile-views-counter/v1?username=Harshhuu1&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Harshhuu1?label=Followers&style=for-the-badge&color=blue)
-
 **Thanks for visiting! Let's build the future with AI together! 🤖✨**
 
 </div>
