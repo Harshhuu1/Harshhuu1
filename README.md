@@ -88,9 +88,8 @@ print("Building the future with AI! 🚀")
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshhuu1&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Harshhuu1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
-</div>
+
+
 
 ---
 
