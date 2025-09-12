@@ -142,10 +142,16 @@ const harsh = {
 
 ---
 
-## 💬 Random Dev Quote
+## 💭 Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+**"Debugging is like being the detective in a crime movie where you're also the murderer."** 🕵️‍♂️
 </div>
 
 ---
