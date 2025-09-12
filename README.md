@@ -1,4 +1,4 @@
-# It's me , Harsh :)
+# It's me , Harsh 
 
 
 <div align="center">
