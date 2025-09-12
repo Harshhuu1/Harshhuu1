@@ -25,22 +25,7 @@
 # 💻 Tech Stack  
 
 <p align="center">
-  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,sklearn,keras,pandas,numpy,matplotlib,opencv,git,github,arduino,vscode,anaconda&theme=dark" />
 </p>
 
 ---
@@ -58,16 +43,28 @@
 
 ---
 
-### ✍️ Random Dev Quote  
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshhuu1&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repos  
+## 📌 Pinned Projects  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Harshhuu1&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/Harshhuu1/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshhuu1&repo=your-project-1&theme=radical" />
+  </a>
+  <a href="https://github.com/Harshhuu1/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshhuu1&repo=your-project-2&theme=radical" />
+  </a>
+</p>
+
+---
+
+### ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -83,6 +80,20 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🌌 3D Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" />
+</p>
+
+---
+
+## 🎯 Currently Learning  
+- Deep Learning (Advanced Architectures)  
+- Generative AI & LLMs  
+- System Design & DSA  
 
 ---
 
