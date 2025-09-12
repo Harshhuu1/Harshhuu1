@@ -73,12 +73,11 @@
 
 ---
 
-## 🌌 3D Contribution Graph  
+## 📈 Activity Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-season-animate.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
 
 ## 🎯 Currently Learning  
 - Deep Learning (Advanced Architectures)  
