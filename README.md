@@ -329,18 +329,6 @@ const harsh = {
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-```text
-💻 Programming         ████████████████████░░░░░   80%
-🔬 Research            ████████████████░░░░░░░░░   65%
-📚 Learning            █████████████████████░░░░   85%
-🎯 Problem Solving     ████████████████████░░░░░   75%
-🌐 Open Source         ████████████░░░░░░░░░░░░░   55%
-```
-
----
-
 ## 🎮 Fun Zone
 
 <div align="center">
