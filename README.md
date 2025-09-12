@@ -1,129 +1,141 @@
-<!-- Typing Intro -->
+# Hi there! I'm Harsh 👋
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Harsh+%F0%9F%91%8B;ECE+(IoT)+Student;ML+%7C+DL+%7C+GenAI+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;ECE+(IoT)+Student+%7C+ML+Enthusiast;Building+the+Future+with+AI+%26+IoT;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer working" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coder GIF" />
-</p>
+## 🚀 About Me
 
-- 🔭 Working on **Deep Learning & Generative AI Projects**  
-- 🌱 Currently learning **System Design & DSA**  
-- 💡 Interested in **IoT + AI integration**  
-- ⚡ Fun fact: I spend more time debugging than coding 😆  
+I'm a passionate **Electronics & Communication Engineering** student specializing in **IoT** with a deep fascination for **Artificial Intelligence** and **Machine Learning**. I believe in the power of technology to solve real-world problems and am constantly exploring the intersection of hardware and intelligent software.
 
----
+### What Drives Me:
+- 🔬 **Research & Innovation**: Exploring cutting-edge AI/ML algorithms and their practical applications
+- 🌐 **IoT Integration**: Bridging the gap between smart devices and intelligent systems  
+- 🧠 **Deep Learning**: Understanding and implementing neural networks for complex problem-solving
+- 💡 **Problem Solving**: Turning ideas into working solutions through code and creativity
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://instagram.com/haarsh_029" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshyadav11" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ediyalot@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
-  </a>
-</p>
+### Current Focus:
+- 🔭 **Working on**: Advanced Deep Learning projects and Generative AI applications
+- 🌱 **Learning**: System Design principles and Data Structures & Algorithms
+- 🎯 **Goal**: Contributing to open-source AI projects and building impactful IoT solutions
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Development & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" />  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black"/>  
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50" alt="Tech stack" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshhuu1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshhuu1&theme=dark&hide_border=false" height="180"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshhuu1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshhuu1&theme=tokyonight&hide_border=false"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshhuu1&theme=dark&hide_border=false&layout=compact" height="180"/>
-</p>
-
----
-
-## 🌌 3D Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/Harshhuu1/Harshhuu1/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshhuu1&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
-## 🎯 Currently Learning  
+## 🎯 Learning Journey
 
-- Deep Learning (Advanced Architectures)  
-- Generative AI & LLMs  
-- System Design & DSA  
-
----
-
-## ✍️ Random Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
----
-
-## 😂 Dev Jokes  
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>
-</p>
-
----
-
-## 🐍 Snake Eating Contributions  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshhuu1/Harshhuu1/output/snake.svg" alt="Snake animation"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100"/><br/>
+<b>Deep Learning</b><br/>
+Advanced Neural Networks<br/>
+& Architectures
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/><br/>
+<b>Generative AI</b><br/>
+LLMs & Creative<br/>
+AI Applications
+</td>
+<td align="center" width="200px">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
+<b>System Design</b><br/>
+Scalable Architecture<br/>
+& DSA Mastery
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Activity Graph  
+## 🌐 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshyadav11)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/haarsh_029)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ediyalot@gmail.com)
 
-## ⚡ Fun GIFs  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" alt="Python GIF" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coder GIF" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220" alt="AI Brain GIF" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harshhuu1&icon=0&color=0" alt="Profile Views"/>
-</p>
+## 💭 Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Harshhuu1/Harshhuu1/output/snake.svg" alt="Snake eating contributions"/>
+</div>
+
+---
+
+## 📈 Activity Overview
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity"/>
+</div>
+
+---
+
+<div align="center">
+  
+### "The future belongs to those who learn more skills and combine them in creative ways." 🚀
+
+<img src="https://komarev.com/github-profile-views-counter/3D-b74b&color=0e75b6&style=flat" alt="Profile Views"/>
+
+**Thank you for visiting my profile! Feel free to explore my repositories and connect with me.** 😊
+
+</div>
