@@ -98,28 +98,36 @@ const harsh = {
 <div align="center">
 <table>
 <tr>
-<td align="center" width="300">
+<td align="center" width="250">
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 <br><br>
-<h3>🧠 Deep Learning</h3>
-<p>Advanced Neural Networks<br/>Transformer Architectures<br/>Computer Vision</p>
+<h3>🧠 Machine Learning</h3>
+<p>Supervised Learning<br/>Unsupervised Learning<br/>Feature Engineering<br/>Model Optimization</p>
 </div>
 </td>
-<td align="center" width="300">
+<td align="center" width="250">
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100"/>
+<br><br>
+<h3>🔥 Deep Learning</h3>
+<p>Neural Networks<br/>CNNs & Computer Vision<br/>RNNs & Time Series<br/>Transfer Learning</p>
+</div>
+</td>
+<td align="center" width="250">
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
 <br><br>
 <h3>🤖 Generative AI</h3>
-<p>Large Language Models<br/>Creative AI Applications<br/>Prompt Engineering</p>
+<p>Large Language Models<br/>GANs & VAEs<br/>Prompt Engineering<br/>AI Ethics</p>
 </div>
 </td>
-<td align="center" width="300">
+<td align="center" width="250">
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
 <br><br>
 <h3>⚡ System Design</h3>
-<p>Scalable Architecture<br/>Data Structures & Algorithms<br/>Distributed Systems</p>
+<p>Data Structures & Algorithms<br/>Scalable Architecture<br/>Distributed Systems<br/>Performance Optimization</p>
 </div>
 </td>
 </tr>
