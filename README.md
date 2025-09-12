@@ -88,33 +88,7 @@ const harsh = {
 ---
 
 ## 🎯 Currently Learning
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/3o6gE5aYc7j9ax2fDi/giphy.gif" width="100"/>
-<h3>🧠 Machine Learning</h3>
-<p>Supervised Learning<br/>Feature Engineering<br/>Model Optimization</p>
-</td>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100"/>
-<h3>🔥 Deep Learning</h3>
-<p>Neural Networks<br/>Computer Vision<br/>Transfer Learning</p>
-</td>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/l0MYu5jGx6J2kVh2U/giphy.gif" width="100"/>
-<h3>🤖 Generative AI</h3>
-<p>Large Language Models<br/>Prompt Engineering<br/>AI Applications</p>
-</td>
-<td align="center" width="250">
-<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="100"/>
-<h3>⚡ System Design</h3>
-<p>Data Structures<br/>Algorithms<br/>Problem Solving</p>
-</td>
-</tr>
-</table>
-</div>
+<div align="center"> <table> <tr> <td align="center" width="250"> <img src="https://media.giphy.com/media/3o6ZtqzV5cVQzVb8nO/giphy.gif" width="100"/> <h3>🧠 Machine Learning</h3> <p>Supervised Learning<br/>Feature Engineering<br/>Model Optimization</p> </td> <td align="center" width="250"> <img src="https://media.giphy.com/media/3o6Zt7aV5cVQzVb8nO/giphy.gif" width="100"/> <h3>🔥 Deep Learning</h3> <p>Neural Networks<br/>Computer Vision<br/>Transfer Learning</p> </td> <td align="center" width="250"> <img src="https://media.giphy.com/media/3o6ZtqzV5cVQzVb8nO/giphy.gif" width="100"/> <h3>🤖 Generative AI</h3> <p>Large Language Models<br/>Prompt Engineering<br/>AI Applications</p> </td> <td align="center" width="250"> <img src="https://media.giphy.com/media/3o6ZtqzV5cVQzVb8nO/giphy.gif" width="100"/> <h3>⚡ System Design</h3> <p>Data Structures<br/>Algorithms<br/>Problem Solving</p> </td> </tr> </table> </div>
 
 ## 📈 Contribution Activity
 
