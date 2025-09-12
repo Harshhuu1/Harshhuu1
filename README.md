@@ -134,7 +134,6 @@ Scalable Architecture<br/>
   
 ### "The future belongs to those who learn more skills and combine them in creative ways." 🚀
 
-<img src="https://komarev.com/github-profile-views-counter/3D-b74b&color=0e75b6&style=flat" alt="Profile Views"/>
 
 **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.** 😊
 
