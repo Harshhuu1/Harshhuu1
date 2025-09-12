@@ -27,4 +27,8 @@ Hi 👋! My name is Harsh  <br>I'm a Computer Science student from India.  <br><
 ![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=react-dark&hide_border=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Harsh+%F0%9F%91%8B;Computer+Science+Student;ML+%7C+DL+%7C+GenAI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=react-dark&hide_border=true)
 
