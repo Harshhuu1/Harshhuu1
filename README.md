@@ -24,4 +24,5 @@ Hi 👋! My name is Harsh  <br>I'm a Computer Science student from India.  <br><
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Snake animation](https://raw.githubusercontent.com/Harshhuu1/Harshhuu1/output/snake.svg)
 
+![Harsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshhuu1&theme=react-dark&hide_border=true)
 
