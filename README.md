@@ -124,17 +124,6 @@ print("Building the future with AI! 🚀")
 
 ---
 
-## 🔬 Current Projects
-
-| 🎯 Project | 🛠️ Tech Stack | 📈 Status |
-|------------|---------------|-----------|
-| **AI Chatbot** | Python, Transformers, Streamlit | 🚀 In Progress |
-| **Object Detection System** | YOLO, OpenCV, Python | ✅ Completed |
-| **Image Classification** | TensorFlow, CNNs | 🔄 Improving |
-| **Data Analysis Dashboard** | Pandas, Streamlit, MySQL | 📊 Planning |
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
